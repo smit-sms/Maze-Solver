@@ -67,8 +67,8 @@ python maze-solver.py --generate False --maze-size 25 --algorithm DFS
 
 ## Some Screenshots
 <p float="left" align="center">
-  <img src="https://github.com/smit-sms/Maze-Solver/assets/52400400/7748dd4e-d1d2-4045-81a4-03e517d048d7" width="500" />
-  <img src="https://github.com/smit-sms/Maze-Solver/assets/52400400/4cdcd9fb-d107-4f74-9ac3-04ef6c93f2e1" width="470" /> 
+  <img src="https://github.com/smit-sms/Maze-Solver/assets/52400400/7748dd4e-d1d2-4045-81a4-03e517d048d7" width="400" />
+  <img src="https://github.com/smit-sms/Maze-Solver/assets/52400400/4cdcd9fb-d107-4f74-9ac3-04ef6c93f2e1" width="400" /> 
   <br/>BFS on 25x25 Maze &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; DFS on 25x25 Maze
 </p>
 
